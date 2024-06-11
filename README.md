@@ -1,4 +1,4 @@
-## Hi there 👋
+## oii, sou thata i eu sou gotica 👋
 
 <!--
 **thatagoth/thatagoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
